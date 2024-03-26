@@ -31,7 +31,7 @@ URL = "https://github.com/haoheliu/audiosr"
 EMAIL = "haoheliu@gmail.com"
 AUTHOR = "Haohe Liu"
 REQUIRES_PYTHON = ">=3.7.0"
-VERSION = "0.0.7"
+VERSION = "0.0.8"
 
 # What packages are required for this module to be executed?
 REQUIRED = [
@@ -51,7 +51,7 @@ REQUIRED = [
     "unidecode",
     "phonemizer",
     "torchlibrosa>=0.0.9",
-    "transformers==4.30.2",
+    "transformers>=4.30.2",
     "huggingface_hub",
     "progressbar",
     "ftfy",
